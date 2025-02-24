@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84d7e495-06c3-4068-931c-054c07a430b8" name="Changes" comment="snake movement">
+    <list default="true" id="84d7e495-06c3-4068-931c-054c07a430b8" name="Changes" comment="restricted backwards movement">
+      <change afterPath="$PROJECT_DIR$/food.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740333694155</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="restricted backwards movement">
+      <option name="closed" value="true" />
+      <created>1740353234900</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740353234900</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -116,6 +125,7 @@
     <MESSAGE value="snake body" />
     <MESSAGE value="created snake class" />
     <MESSAGE value="snake movement" />
-    <option name="LAST_COMMIT_MESSAGE" value="snake movement" />
+    <MESSAGE value="restricted backwards movement" />
+    <option name="LAST_COMMIT_MESSAGE" value="restricted backwards movement" />
   </component>
 </project>
